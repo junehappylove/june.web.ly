@@ -11,7 +11,7 @@
 						<h3>接管开源大业，任重而道远也 --june @ 2016-09-01</h3>
 						<div style="padding-left: 20px; color: red;">
 							1.听说原系统要修费了，收费就收费吧，我们接着搞起...<br>
-							2.版本1.0v：<a href="https://github.com/junehappylove/june_BMS" title="源码这里有" target="_blank">https://github.com/junehappylove/june_BMS</a><br>
+							2.版本1.0v：<a href="https://github.com/junehappylove/june_web_ly" title="源码这里有" target="_blank">https://github.com/junehappylove/june_web_ly</a><br>
 						</div>
 						<br> 关于1.0新版本的说明：
 						<div style="padding-left: 20px;">

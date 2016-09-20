@@ -24,7 +24,7 @@
 # JUNE开源系统介绍
 接管开源大业，任重而道远也 by june @ 2016-09-01
 > 1. 听说原系统要修费了，收费就收费吧，我们接着搞起...
-> 2. 版本1.0v,源码在[这里](https://github.com/junehappylove/june_BMS)
+> 2. 版本1.0v,源码在[这里](https://github.com/junehappylove/june_web_ly)
 
 ## 关于1.0新版本的说明：
 
